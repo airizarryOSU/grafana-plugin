@@ -2,8 +2,6 @@
 
 yes | sudo yum install grafana
 
-yes sudo yum install git
-
 curl --silent --location https://rpm.nodesource.com/setup_12.x | sudo bash -
 
 sudo yum install -y nodejs
